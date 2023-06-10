@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.repos-container {
+  text-align: center;
+  font-family: 'Roboto';
+}
+.repos-heading {
+  font-size: 30px;
+  font-family: 'Lobster';
+  font-weight: 800;
+}
+.buttons-list {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+}
+.repo-lists {
+  display: flex;
+  flex-wrap: wrap;
+
+  list-style-type: none;
+  justify-content: center;
+}

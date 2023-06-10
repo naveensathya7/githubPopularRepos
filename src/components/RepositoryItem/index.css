@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.repo-list-item {
+  background-color: #f8f8ff;
+  border-radius: 5px;
+  text-align: center;
+  width: 200px;
+  padding: 10px;
+  line-height: 1px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.avatar {
+  width: 100px;
+  height: 100px;
+}
+.icons {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.repo-name {
+  color: #e73959;
+}
